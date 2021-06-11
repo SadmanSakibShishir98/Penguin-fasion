@@ -1,0 +1,108 @@
+.body{
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.top-banner{
+    background-color: #f3f0d7;
+    height: 680px;
+     
+}
+
+span   {
+    color: #ffc947;
+    font-size: 50px;
+}
+.price{
+    color: #ffc947;
+    font-size: 33px;
+}
+.ibrand img{
+    
+    width: 25%;
+    height: 50px;
+}
+
+.woman-card{
+    
+    
+    border: 18px solid white;
+    
+    height: 550px;
+    width: 385px;
+   
+    
+}
+
+.woman-card-footer{
+    background-color: white;
+    border: 0;
+}
+
+.woman-card img{
+    height: 320px;
+    width: 300px;
+    padding-left: 10%;
+    
+    padding-top: 5%;
+    padding-bottom: 4%;
+    
+    
+}
+.c-b{
+    background-color: white;
+}
+
+.bg-colr{
+    background-color: white;
+}
+
+.img-box{
+    
+    height: 500px;
+    width: 350px;
+    background-color: rgb(202, 202, 202);
+
+}
+.feature img{
+    float: left;
+    padding-top: 20px;
+    width: 100px;
+    border: 1px solid whitesmoke;
+}
+.feature h5{
+    padding-top: 25px;
+}
+.feature{
+    height: 130px;
+    width: 400px;
+    background-color: whitesmoke;
+}
+
+.cart img{
+    width: 100%;
+}
+
+.txt{
+    padding-left: 120px;
+    padding-bottom: 1%;
+}
+
+.f-btn{
+    background-image:linear-gradient(180deg, #b0df4b, #89ba20) ;
+    border: none;
+    padding: 10px 25px;
+    margin-top: 50px;
+}
+
+.btn-buy{
+    background-image:linear-gradient(180deg, #b0df4b, #89ba20) ;
+    border: none;
+    padding: 10px 25px;
+    color: white;
+}
+
+.infom p{
+    width: 80%;
+    text-align:left;
+    padding-top: 40px;
+}
